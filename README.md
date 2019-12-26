@@ -241,7 +241,7 @@ Redux co-maintainer [Mark Erikson](https://twitter.com/acemarke) has put togethe
 
 ### Mobile E-Commerce with Flutter, Redux, and Stripe
 
-**[Mobile E-Commerce with Flutter, Redux, and Stripe](https://www.packtpub.com/web-development/mobile-e-commerce-with-flutter-redux-and-stripe-video?utm_source=Redux.js.org&utm_medium=referral&utm_OutreachV157065dollar)** it looks forward to building an online marketplace for your mobile apps!r [Reed Barger]. It covers:
+**[Mobile E-Commerce with Flutter, Redux, and Stripe](https://www.packtpub.com/web-development/mobile-e-commerce-with-flutter-redux-and-stripe-video?utm_source=Redux.js.org&utm_medium=referral&utm_OutreachV157065dollar)** it looks forward to building an online marketplace for your mobile apps! by Reed Barger. It covers:
 
 - Gain a fundamental understanding of Flutter and Firebase
 - Learn to make impressive, functional, and mobile e-commerce projects with Flutter
